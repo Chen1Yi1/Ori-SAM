@@ -43,3 +43,6 @@ package-lock.json
 
 # model
 *.pth
+
+# data
+SA_1B/
